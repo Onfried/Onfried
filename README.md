@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**Onfried/Onfried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - :wave: Hi, my name is Vadim Umancev
